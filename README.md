@@ -47,6 +47,3 @@ Feel free to submit issues or pull requests.
 
 ---
 
-## **License**
-
-[MIT License](LICENSE) © 2024 Your Name
